@@ -1,0 +1,20 @@
+#container {
+  margin: 0 auto;
+  text-align: center;
+  height: 635px;
+  background-color: yellow;
+  transition: all 0.3s;
+}
+#colorGenarateBtn {
+  margin-top: 20%;
+}
+#colorGenarateBtn:hover {
+    background-color: rgb(0, 255, 34);
+    color: rgb(0, 0, 0);
+}
+#colorName {
+    border-radius: 30%;
+  background-color: rgb(9, 10, 10);
+  padding: 5px;
+  margin-top: 10px;
+}
